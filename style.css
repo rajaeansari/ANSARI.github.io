@@ -1,0 +1,32 @@
+h1{
+  color: #FA8072
+}
+h2{
+     color : 	 #B22222;
+  font-family: system-ui;
+   }
+   strong{
+     font-size: 50;
+   }
+   p,table,ul{
+font-family: sans-serif ;
+font-style: normal;
+   }
+   .imgcirculaire{
+     border-radius: 100%;
+
+   }
+   .center {
+     text-align: center;
+
+   }
+
+
+
+   body {
+  background-color: #FFF8DC
+}
+#header_cv
+{
+background-color: #FAEBD7
+}
