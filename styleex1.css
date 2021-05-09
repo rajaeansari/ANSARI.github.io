@@ -1,0 +1,262 @@
+.q1{
+  text-align: center;
+  color: #2471A3
+
+}
+.am{
+  color: #1F618D
+}
+.fig1{
+  display: inline-block;
+  position: relative;
+  left: 50px;
+}
+.fig2{
+  display: inline-block;
+  position: relative;
+  left: 270px;
+
+}
+.fig3{
+  display: inline-block;
+  position: relative;
+  left: 550px;
+
+}
+.fig4{
+  display: inline-block;
+  position: relative;
+  left: 750px;
+
+}
+.figA1{
+  display: inline-block;
+  position: absolute;
+  left: 50px;
+}
+.figA2{
+  display: inline-block;
+  position: absolute;
+  left: 400px;
+
+}
+.figA3{
+  display: inline-block;
+  position: absolute;
+  left: 780px;
+
+}
+.figA4{
+
+    display: inline-block;
+    position: absolute;
+    left: 1120px;
+}
+
+
+
+.carre1{
+  width: 80px;
+  height: 80px;
+  background-color: #45B39D ;
+  border: solid  #154360 1px;
+
+}
+.carre2{
+  width: 80px;
+  height: 80px;
+  background-color: #A3E4D7 ;
+  border: solid  #154360   1px;
+  position: relative;
+  top: 2px;
+}
+.carre3{
+  width: 80px;
+  height: 80px;
+  background-color: #EAFAF1;
+  border: solid  #154360  1px;
+  position: relative;
+  top: 4px;
+}
+.carre4{
+  width: 80px;
+  height: 80px;
+  background-color: #45B39D ;
+  border: solid  #154360 1px;
+
+}
+.carre5{
+  width: 80px;
+  height: 80px;
+  background-color: #A3E4D7 ;
+  border: solid  #154360   1px;
+  position: relative;
+  top: 2px;
+  left: 81px;
+}
+.carre6{
+  width: 80px;
+  height: 80px;
+  background-color: #EAFAF1;
+  border: solid  #154360  1px;
+  position: relative;
+  top: 4px;
+  left: 163px;
+}
+.carre7{
+  width: 184px;
+  height: 100px;
+  background-color: #45B39D ;
+  border: solid  #154360 1px;
+
+}
+.carre8{
+  width: 90px;
+  height: 90px;
+  background-color: #A3E4D7 ;
+  border: solid  #154360   1px;
+  position: relative;
+  top:4px;
+
+}
+.carre9{
+  width: 90px;
+  height: 90px;
+  background-color: #EAFAF1;
+  border: solid  #154360  1px;
+  position: relative;
+  top: -87px;
+  left:94px;
+
+
+}
+.carre10{
+  width: 80px;
+  height: 80px;
+  background-color: #45B39D ;
+  border: solid  #154360 1px;
+
+}
+.carre11{
+  width: 80px;
+  height: 80px;
+  background-color: #A3E4D7 ;
+  border: solid  #154360   1px;
+  position: relative;
+  top: 2px;
+}
+.carre12{
+  width: 80px;
+  height: 80px;
+  background-color: #EAFAF1;
+  border: solid  #154360  1px;
+  position: relative;
+  left: 84px;
+  bottom: 164px;
+
+
+}
+.carreA1{
+  width: 80px;
+  height: 80px;
+  background-color: #45B39D ;
+  border: solid  #154360 1px;
+
+}
+.carreA2{
+  width: 80px;
+  height: 80px;
+  background-color: #A3E4D7 ;
+  border: solid  #154360   1px;
+  position: absolute;
+  top: 144px;
+}
+.carreA3{
+  width: 80px;
+  height: 80px;
+  background-color: #EAFAF1;
+  border: solid  #154360  1px;
+  position: absolute;
+  top: 230px;
+}
+.carreA4{
+  width: 80px;
+  height: 80px;
+  background-color: #45B39D ;
+  border: solid  #154360 1px;
+
+}
+.carreA5{
+  width: 80px;
+  height: 80px;
+  background-color: #A3E4D7 ;
+  border: solid  #154360   1px;
+  position: absolute;
+  top: 140px;
+  left: 81px;
+}
+.carreA6{
+  width: 80px;
+  height: 80px;
+  background-color: #EAFAF1;
+  border: solid  #154360  1px;
+  position: absolute;
+  top: 224px;
+  left: 163px;
+}
+.carreA7{
+  width: 184px;
+  height: 100px;
+  background-color: #45B39D ;
+  border: solid  #154360 1px;
+
+
+
+}
+.carreA8{
+  width: 90px;
+  height: 90px;
+  background-color: #A3E4D7 ;
+  border: solid  #154360   1px;
+  position: absolute;
+  top: 165px;
+
+}
+.carreA9{
+  width: 90px;
+  height: 90px;
+  background-color: #EAFAF1;
+  border: solid  #154360  1px;
+  position:absolute;
+  bottom: -95px;
+  left:94px;
+
+
+}
+
+.carreA10{
+  width: 80px;
+  height: 80px;
+  background-color: #45B39D ;
+  border: solid  #154360 1px;
+
+}
+.carreA11{
+  width: 80px;
+  height: 80px;
+  background-color: #A3E4D7 ;
+  border: solid  #154360   1px;
+  position: absolute;
+  top: 143px;
+}
+.carreA12{
+  width: 80px;
+  height: 80px;
+  background-color: #EAFAF1;
+  border: solid  #154360  1px;
+  position: absolute;
+  left: 84px;
+  bottom: 2px;
+
+
+}
